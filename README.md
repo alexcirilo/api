@@ -1,4 +1,4 @@
-## API Rest feita com SpringBoot no curso de Spring Boot da Alura.
+## API Rest de uma clínica feita com Spring Boot .
 
 ## Tecnologias:
 <ul>
